@@ -1,0 +1,14 @@
+.stitched {
+   padding: 20px;
+   margin: 35px;
+   background: #f4f142;
+   color: #4286f4;
+   font-size: 45px;
+   font-weight: bold;
+   line-height: 2em;
+   border: 2px dashed #eb42f4;
+   border-radius: 30px;
+   box-shadow: 0 0 0 4px #42f4e5, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: 1px 1px #aa3030;
+   font-weight: normal;
+}
